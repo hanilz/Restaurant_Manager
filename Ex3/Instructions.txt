@@ -1,0 +1,10 @@
+15
+1
+2 Pasta 4
+3 1 Falafel 3
+3 6 Pahlava 4
+3 5 Pasta 4
+4 5 Pasta 1
+5 1
+5 6
+5 5

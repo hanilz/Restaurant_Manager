@@ -1,0 +1,18 @@
+﻿  Ex3.c
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3.c(16,1): warning C4028: formal parameter 1 different from declaration
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3.c(102,1): warning C4028: formal parameter 3 different from declaration
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3.c(303,1): warning C4028: formal parameter 2 different from declaration
+  Ex3main.c
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(60,30): warning C4047: 'function': 'PKitchen' differs in levels of indirection from 'PKitchen *'
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(60,30): warning C4024: 'CreateProducts': different types for formal and actual parameter 1
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(62,34): warning C4047: 'function': 'PKitchen' differs in levels of indirection from 'PKitchen *'
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(62,34): warning C4024: 'removeRest': different types for formal and actual parameter 2
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(79,35): warning C4047: 'function': 'PKitchen' differs in levels of indirection from 'PKitchen *'
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(79,35): warning C4024: 'AddItems': different types for formal and actual parameter 3
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(93,35): warning C4047: 'function': 'PKitchen' differs in levels of indirection from 'PKitchen *'
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(93,35): warning C4024: 'removeRest': different types for formal and actual parameter 2
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(128,31): warning C4047: 'function': 'PKitchen' differs in levels of indirection from 'PKitchen *'
+C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Ex3\Ex3main.c(128,31): warning C4024: 'removeRest': different types for formal and actual parameter 2
+  Generating Code...
+  LINK : C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Debug\Ex3.exe not found or not built by the last incremental link; performing full link
+  Ex3.vcxproj -> C:\Users\Hanil\OneDrive - ort braude college of engineering\לימודים\סמסטר 2\מתמ\תרגילי בית\Ex3\Ex3\Debug\Ex3.exe
