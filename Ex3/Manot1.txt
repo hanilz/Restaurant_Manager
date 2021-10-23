@@ -1,0 +1,7 @@
+Cake 40 1110
+Pasta 22 305 
+Steak 31 25 
+Carpaccio 13 40 
+Fish 10 20 
+Kish 5 40
+Elena 8 555
